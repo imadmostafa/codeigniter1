@@ -1,0 +1,564 @@
+CRITICAL - 2021-09-05 07:50:12 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 54
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(54): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update(NULL)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 07:50:59 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 54
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(54): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update(NULL)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 07:52:49 --> Call to undefined method App\Models\EmployeeModel::single
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(52): CodeIgniter\Model->__call('single', Array)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('1')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 07:52:51 --> Call to undefined method App\Models\EmployeeModel::single
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(52): CodeIgniter\Model->__call('single', Array)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('1')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 07:52:54 --> Call to undefined method App\Models\EmployeeModel::single
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(52): CodeIgniter\Model->__call('single', Array)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('1')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 07:54:06 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 54
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(54): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update(NULL)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:05:32 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, array given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 67
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(67): App\Controllers\Employee->failNotFound(Array)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('10')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:48:54 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('8')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:49:51 --> Argument 2 passed to dot_array_search() must be of the type array, null given, called in C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php on line 599
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php(599): dot_array_search('models', NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php(559): CodeIgniter\HTTP\IncomingRequest->getJsonVar('models', false, NULL, NULL)
+#2 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): CodeIgniter\HTTP\IncomingRequest->getVar('models')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-09-05 08:50:07 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Object(stdClass))
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 08:50:57 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:51:02 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:51:11 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 57
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(57): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:55:42 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:56:02 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Object(stdClass))
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 08:56:25 --> json_decode() expects parameter 1 to be string, object given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Object(stdClass))
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 08:57:05 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Array)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 08:57:14 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, array given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(Array)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:57:20 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, object given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(Object(stdClass))
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 08:57:21 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, object given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(Object(stdClass))
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 09:00:51 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Array)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 09:01:07 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Array)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 09:11:19 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 59
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(59): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 09:12:53 --> Argument 2 passed to dot_array_search() must be of the type array, null given, called in C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php on line 599
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php(599): dot_array_search('models', NULL)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): CodeIgniter\HTTP\IncomingRequest->getJsonVar('models')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('10')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 09:13:30 --> Argument 2 passed to dot_array_search() must be of the type array, null given, called in C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php on line 599
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\HTTP\IncomingRequest.php(599): dot_array_search('models', NULL)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): CodeIgniter\HTTP\IncomingRequest->getJsonVar('models', true)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('8')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 09:13:56 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Array)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-09-05 09:15:11 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\project3\app\Controllers\Employee.php(58): json_decode(Array)
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('11')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2021-09-05 09:24:10 --> Column 'name' cannot be null
+ERROR - 2021-09-05 09:24:37 --> Column 'name' cannot be null
+ERROR - 2021-09-05 09:27:26 --> Column 'name' cannot be null
+ERROR - 2021-09-05 10:10:54 --> Column 'name' cannot be null
+CRITICAL - 2021-09-05 12:27:28 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 68
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(68): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('7')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 12:27:30 --> Argument 1 passed to App\Controllers\Employee::failNotFound() must be of the type string, null given, called in C:\xampp\htdocs\project3\app\Controllers\Employee.php on line 68
+#0 C:\xampp\htdocs\project3\app\Controllers\Employee.php(68): App\Controllers\Employee->failNotFound(NULL)
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->update('7')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-09-05 14:47:22 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 14:48:28 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 14:49:04 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 14:50:22 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 14:53:02 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:13:33 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:14:07 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:14:32 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:15:57 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-09-05 15:16:11 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-09-05 15:16:28 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray('name=a&email=a&...', 'insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert('name=a&email=a&...', true)
+#2 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert('name=a&email=a&...')
+#3 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-09-05 15:18:19 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:18:51 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:19:12 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:19:46 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:21:25 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:21:57 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:22:12 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:22:17 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:23:36 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:23:48 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:32:51 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:33:23 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:33:52 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:34:24 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:34:43 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:35:13 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 15:36:33 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-09-05 18:13:32 --> There is no data to insert.
+#0 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\project3\app\Controllers\Employee.php(25): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Employee->create()
+#5 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+#6 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\project3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\project3\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
